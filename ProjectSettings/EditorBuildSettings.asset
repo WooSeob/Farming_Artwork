@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 487ad336e4b02a14d9d168a55bfa7ef1
+  - enabled: 0
+    path: Assets/Scenes/WooJae.unity
+    guid: 0115e40a12285454ba4e9ba571e7a4a9
   m_configObjects: {}
